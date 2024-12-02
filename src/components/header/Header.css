@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f9fa;
+    padding: 10px 20px;
+    max-width: 1650px;
+    height: 64px;
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-weight: 500;
+    color:gray;
+  }
+  .process-button{
+    background-color:orange;
+    padding: 7px 15px 7px 15px;
+    border-radius: 5px;
+    border: 0px ;
+    margin-right: 10px;
+  }
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .admin-button{
+    background-color:rgb(217, 59, 223);
+    border-radius: 5px;
+    border: 0px ;
+    margin-right: 10px;
+    padding: 7px 12px 7px 12px;
+  }
+  .icon{
+    font-size: 23px;
+    margin-right: 15px;
+  }
+  .log-icon{
+    font-size: 23px;
+    margin-right: 11px;
+    margin-left: 30px;
+  }
+  .image{
+    width: 45px;
+    height: 45px;
+    margin-right: 18px;
+    margin-left: 5px;
+  }
+  .profile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+  }
+  .name{
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  .log-out{
+    font-weight: bold;
+    margin-right: 10px;
+    color: gray;
+  }

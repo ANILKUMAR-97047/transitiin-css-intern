@@ -1,0 +1,77 @@
+/* AskCature.css */
+
+.ask-cature-container {
+    max-width: 450px;
+    height: 369px;
+    background-color: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    /* width: 100%; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ask-cature-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 16px;
+  }
+  
+  .ask-cature-options {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .ask-cature-button {
+    flex: 1;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ask-cature-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .ask-cature-templates {
+    margin-top: 16px;
+  }
+  
+  .ask-cature-subtitle {
+    font-size: 16px;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 12px;
+  }
+  
+  .ask-cature-buttons {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .ask-cature-secondary {
+    background-color: #ffffff;
+    color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .ask-cature-secondary:hover {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  

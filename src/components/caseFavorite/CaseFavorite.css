@@ -1,0 +1,46 @@
+.case-container{
+    max-width: 450px;
+    height: 277px;
+    background-color: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+   
+    margin: 10px;
+    /* width: 100%; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.line{
+    width: 430px;
+
+}
+.pic{
+    margin-right: 10px;
+    font-size: 25px; 
+}
+.note-photo{
+    display: flex;
+    align-items: center;
+
+    background-color: rgb(237, 235, 235);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 1px solid;
+}
+.note{
+    background-color: rgb(237, 235, 235);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 1px solid;
+
+}
+.pin{
+    color:blue;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.header-heading{
+   display: flex;
+   align-items: center;
+}
