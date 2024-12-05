@@ -13,7 +13,6 @@ import { AiOutlineFileSearch } from "react-icons/ai";
 import { BsStars } from "react-icons/bs";
 import { FiGift } from "react-icons/fi";
 
-
 const Sidebar = () => {
   return (
     <aside className="sidebar">
@@ -32,7 +31,6 @@ const Sidebar = () => {
         <li><LuWrench className="list-logo"/>All Accessories</li>
         <li><BsStars className="list-logo"/>Decorating</li>
         <li><FiGift className="list-logo"/>Presenting</li>
-        
       </ul>
     </aside>  
   );
